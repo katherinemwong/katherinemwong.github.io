@@ -10,12 +10,11 @@
 Hi! My name is Katherine Wong. I am a senior at UC San Diego studying Human Biology with a minor in Computer Science. My interests lie in Healthcare Tech and Biotech and I'm hoping to work in this industry after graduation!
 
 An inspirational quote I currently am motivated by is 
-<Our greatest glory is not in never falling, but in rising every time we fall. — Confucius>
+>Our greatest glory is not in never falling, but in rising every time we fall. — Confucius
 
 **Links**
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/katmwong/)
-[Read me for this project](README.md)
 
 **Hobbies**
 - Baking
@@ -40,3 +39,4 @@ My favorite albums at the moment are:
 2. Ivory - Omar Apollo
 3. Ctrl - SZA
 
+[Read me for this project](README.md)
