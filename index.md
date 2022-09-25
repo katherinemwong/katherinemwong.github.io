@@ -33,7 +33,9 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/katmwong/)
 - [ ] Learn to relax :)
 
 **Music**
+
 My favorite albums at the moment are:
+
 1. Gemini Rights - Steve Lacy
 2. Ivory - Omar Apollo
 3. Ctrl - SZA
